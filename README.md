@@ -2,8 +2,6 @@
 
 ---
 
-# **Automotive Market Data Analysis and Interactive Dashboard**  
-
 ## **Tech Stack**  
 **Tool:** Excel  
 
